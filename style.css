@@ -1,0 +1,217 @@
+*{
+margin: 0;
+}
+.header-article__menu{
+justify-content: center;
+display: flex;
+align-items: center;
+margin: 20px;
+}
+.div__text{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+color: #000000;
+text-decoration: none;
+background: #D9D9D9;
+padding: 3px 13px;
+margin: 10px;
+border-radius: 34.5px;
+}
+.main-div--space{
+height: 170px;
+}
+.main-article{
+display: flex;
+justify-content: flex-start;
+}
+.main-div__text--little{
+font-family: 'Unbounded';
+font-style: normal;
+font-weight: 300;
+font-size: 32px;
+line-height: 40px;
+margin: 0px 20px 0 50px;
+}
+.main-div__text--little--under{
+font-family: 'Unbounded';
+font-style: normal;
+font-weight: 300;
+font-size: 32px;
+line-height: 40px;
+margin: 100px 10px 0 50px ;
+}
+.main-div__text--big{
+font-family: 'Unbounded';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 79px;
+margin: 0px 20px 0 50px;
+}
+.main-article__img{
+display: flex;
+justify-content: end;
+width: 498px;
+height: 366px;
+margin: 0 50px 100px 20px;
+}
+.main-article--social{
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.main-div--space2{
+height: 149px;
+}
+.main-article__div--social{
+height: 149px;
+border-bottom: 5px solid #B3ADAD;
+border-top: 5px solid #B3ADAD;
+border-radius: 5px;
+width: 1365px;
+display: flex;
+justify-content: center;
+}
+.div__img--social{
+margin: 40px 40px;
+}
+.main-div--space3{
+height: 88px;
+}
+.main-article--bio{
+display:flex;
+justify-content: flex-start;
+flex-direction: row;
+background: #F4D8FB;
+width: 100%;
+}
+.main-article__div--bio{
+height: 474px;
+padding: 100px 150px 0px 150px;
+}
+.main-article__img--bio{
+height: 325px;
+width: 250px;
+border: 3px solid #000000;
+border-radius: 12px;
+display: flex;
+justify-content: space-between;
+flex-direction: row;
+}
+.main-article__name--fat{
+font-family: 'Unbounded';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 30px;
+color: #000000;
+}
+.main-article__text--light{
+font-family: 'Unbounded';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 30px;
+color: #000000;
+}
+.main-article__caption--fat{
+font-family: 'Unbounded';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 30px;
+color: #000000;
+margin: 0 0 20px 0;
+}
+.main-article__biography{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 35px;
+color: #000000;
+text-transform: none;
+min-width: 500px;
+}
+.main-div--space4{
+height: 278px;
+}
+.div__p--caption{
+font-family: 'Unbounded';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 79px;
+text-align: center;
+color: #000000;
+}
+.main-article__div--works--catalog{
+font-family: 'Unbounded';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 40px;
+text-align: center;
+display: flex;
+justify-content: space-around;
+margin: 72px 0 0 0;
+}
+.div__p--works--catalog{
+background: #D9D9D9;
+border-radius: 42px;
+width: 331px;
+height: 98px;
+margin: 10px;
+}
+#create_website{
+width: 300px;
+padding: 0 10px;
+}
+.main-article--photos{
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+}
+.main-article__div--photo{
+font-family: 'Unbounded';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 40px;
+color: #000000;
+max-width: 274px;
+}
+.div--photo{
+margin: 100px 0 0 0;
+}
+.main-article__img--photo{
+width: 275px;
+height: 275px;
+border-radius: 10px;
+}
+.main-div--space5{
+height: 151px;
+}
+.main-article--cont{
+font-family: 'Unbounded';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 79px;
+color: #000000;
+display: flex;
+justify-content: space-around;
+text-align: center;
+margin: 0 0 100px 0;
+}
+#mail{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 38px;
+color: #000000;
+}
